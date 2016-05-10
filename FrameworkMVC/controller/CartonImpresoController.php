@@ -6,7 +6,7 @@ class CartonImpresoController extends ControladorBase{
 		parent::__construct();
 	}
 
-
+//DFGDFDFDFD
 
 	public function index(){
 	
